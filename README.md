@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 
+<img src="https://rm.up.railway.app/" width="512px"/>
 I am currently working cloud AWS
 
 
