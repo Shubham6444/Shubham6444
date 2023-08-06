@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_hteXbjoI9_iJ9iDm7E2RxIqbiIHbh3dMEw&usqp=CAU/" width="512px"/>
 I am currently working cloud AWS
 
 
